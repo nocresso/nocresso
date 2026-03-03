@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Nora 👋
 
 Currently working as Analytical Project Lead 🧪 transitioning into Data Analytics and AI 💻  
 
