@@ -1,20 +1,20 @@
 ## Hi there, I'm Nora 👋
 
-Currently working as Analytical Project Lead 🧪 transitioning into Data Analytics and AI 💻  
+Currently working as Analytical Project Lead 🧪 building a second career in **AI engineering and lab digitalization** 💻  
 
 ### 🧠 About me
 - Pharmaceutical industry background
-- Strong foundation in C (low-level programming, memory management, algorithms)
 - Problem-solving driven mindset
 - +10 years of analytical experience in highly regulated environments
-- 42 Barcelona student, focused on software engineering and AI
+- Software engineering student at **42 Barcelona**, with a strong foundation in C (low-level programming, memory management, algorithms)
 
 
-### 🚀 Currently Developing
+### 🚀 What I'm building and learning
 
-- Python for data analysis & AI
-- Data structures & algorithmic efficiency
-- Machine Learning fundamentals
+- **Python**: AI applications, tooling and automation
+- **LLM applications**: Retrieval-Augmented Generation (RAG) systems and AI agents
+- Data structures and algorithmic efficiency
+- Writing clean, robust and maintainable code
 - Writing robust, scalable and clean code
 
 ### 🛠 Core Stack
